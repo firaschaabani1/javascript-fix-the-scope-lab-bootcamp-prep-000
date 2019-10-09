@@ -8,7 +8,7 @@ function yourAnimal(cat) {
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
   return yourAnimal
-  
+
 
   }
 
