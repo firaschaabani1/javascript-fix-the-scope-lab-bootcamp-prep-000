@@ -9,9 +9,7 @@ function yourAnimal('cat') {
   // P.S.: You can't just hard-code 'cat' below
   return yourAnimal
   var yourAnimal= animal
-  var animal = 'cat'
-  console.log ("cat")
-}
+  }
 
 function add2(n) {
   const two = 2
