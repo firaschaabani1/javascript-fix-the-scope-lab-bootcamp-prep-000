@@ -10,7 +10,6 @@ function yourAnimal() {
   return animal
   var animal = 'cat'
   console.log ("cat")
-  break;
 }
 
 function add2(n) {
